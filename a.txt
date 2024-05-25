@@ -1,3 +1,5 @@
 hii
 hello
+<<<<<<< HEAD
 holaa
+>>>>>>> 0546851 (third in master)
